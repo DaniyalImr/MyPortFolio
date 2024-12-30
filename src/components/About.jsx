@@ -9,29 +9,22 @@ function About() {
       <div>
         <h1 className="text-3xl font-bold mb-5">About</h1>
         <p>
-          Hello, I'm Akhil, a passionate Web developer with a keen eye for MERN
-          Stack . With a background in IT, I strive to create impactful and
-          visually stunning Software solutions that leave a lasting impression.
+          Hello, I'm Daniyal Malik, a proficient Full-Stack Developer with a
+          passion for crafting dynamic, responsive, and user-friendly web
+          applications. With expertise in both front-end and back-end
+          technologies, I specialize in creating impactful solutions using the
+          MERN stack and other modern technologies.
         </p>
-        <br />
-        <h1 className="text-green-600 font-semibold text-xl">
-          Education & Training
-        </h1>
-        <span>
-          [Degree/Certification], [Institution], [Year] [Degree/Certification],
-          [Institution], [Year] [Relevant Course], [Platform/Institution],
-          [Year]
-        </span>
         <br />
         <br />
         <h1 className="text-green-600 font-semibold text-xl">
           Skills & Expertise
         </h1>
         <span>
-          Proficient in [Programming Languages] Experienced with [Software
-          Tools/Technologies] Strong grasp of [Design Principles/Concepts]
-          Excellent problem-solving skills Effective communicator and
-          collaborator
+          Proficient in: React.js, Node.js, Express.js, MongoDB, HTML, CSS,
+          JavaScript, Expertise in: Authentication JWT, WebSocket
+          (Socket.IO), and UI Design Strong problem-solving skills and a
+          collaborative approach
         </span>
         <br />
         <br />
@@ -39,11 +32,19 @@ function About() {
           Professional Experience
         </h1>
         <span>
-          [Job Title], [Company/Organization], [Dates] [Brief description of
-          responsibilities and achievements] [Job Title],
-          [Company/Organization], [Dates] [Brief description of responsibilities
-          and achievements] [Freelance/Contract Work], [Client/Organization],
-          [Dates] [Brief description of projects and contributions]
+          Full-Stack Developer, Freelance Projects, [Dates]
+          <ul>
+            <li>
+              Developed a dynamic Book Store, Blog Application, and Chat
+              Application using the MERN stack.
+            </li>
+            <li>
+              Implemented secure authentication systems with JWT and Socket.IO.
+            </li>
+            <li>
+              Designed polished and professional UI forms using React Hook Form.
+            </li>
+          </ul>
         </span>
         <br />
         <br />
@@ -51,8 +52,9 @@ function About() {
           Achievements & Awards
         </h1>
         <span>
-          [Award/Recognition], [Organization/Institution], [Year] [Achievement],
-          [Organization/Platform], [Year]
+          Successfully completed multiple full-stack projects, including MERN
+          Recall CRUD application Recognized for delivering high-quality
+          solutions that exceed client expectations
         </span>
         <br />
         <br />
@@ -60,11 +62,10 @@ function About() {
           Mission Statement
         </h1>
         <p>
-          My mission is to leverage my skills and creativity to deliver
-          innovative [Your Field] solutions that exceed client expectations and
-          contribute positively to the digital landscape. I am committed to
-          continuous learning and growth, always seeking new challenges and
-          opportunities to expand my horizons.
+          My mission is to harness my technical skills and creativity to deliver
+          cutting-edge solutions that enhance the digital landscape. I am
+          dedicated to continuous learning, embracing new challenges, and
+          driving impactful innovation.
         </p>
       </div>
     </div>

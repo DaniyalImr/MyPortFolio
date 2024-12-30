@@ -1,6 +1,6 @@
 import React from "react";
 
-import pic from "../../public/photo.avif";
+import pic from "../../public/Daniyal.webp";
 
 import { FaSquareFacebook } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa";
@@ -36,12 +36,8 @@ function Home() {
               />
             </div>
             <br />
-            <p className="text-sm md:text-md text-justify">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Quisquam, recusandae consequatur. Accusamus sint libero eligendi
-              laborum fuga repudiandae? Asperiores tempore eos animi dolores
-              corrupti! Sint quos, mollitia architecto aliquam nesciunt, optio
-              cum delectus sit voluptatum aut ratione quaerat veniam aperiam!
+            <p className="text-sm md:text-md text-justify">          
+I am a passionate and dedicated full-stack developer with 6 months of hands-on experience in the MERN stack. I specialize in building responsive web applications with React.js, Node.js, Express, and MongoDB. My projects have honed my skills in designing user-friendly interfaces, creating efficient APIs, and managing databases. I am committed to delivering high-quality, optimized solutions and continuously improving my technical expertise.
             </p>
             <br />
             {/* social media icons */}
